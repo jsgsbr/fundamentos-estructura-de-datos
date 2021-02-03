@@ -1,1 +1,1 @@
-# Fundamentos de Estrcutura de Datos - UNIMINUTO
+# Fundamentos de Estructura de Datos - UNIMINUTO
